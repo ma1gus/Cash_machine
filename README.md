@@ -1,4 +1,4 @@
-# Cash machine (Example for my resume)
+# Cash machine (Example from course of study)
 # The course of learning the basics C#
 
 # The basics
