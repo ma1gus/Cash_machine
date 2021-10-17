@@ -1,4 +1,4 @@
-# Cash-machine (Example for my resume)
+# Cash machine (Example for my resume)
 # The course of learning the basics C#
 
 # The basics
